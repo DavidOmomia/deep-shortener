@@ -1,0 +1,42 @@
+# Node modules and dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+*.pid
+*.gz
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist
+
+# Docker-related files
+Dockerfile
+docker-compose.yml
+
+# Temporary files
+tmp
+temp
+*.tmp
+
+# IDE and editor configurations
+*.swp
+*.swo
+*.swn
+*.bak
+.vscode
+.idea
+.DS_Store
+
+# Tests and coverage
+coverage
+test-results.xml
+
+
