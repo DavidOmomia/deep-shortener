@@ -76,7 +76,7 @@ permutedIndex = (a * index + c) % totalSpace;
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/deep-shortener-backend.git
+git https://github.com/DavidOmomia/deep-shortener.git
 cd deep-shortener-backend
 ```
 
