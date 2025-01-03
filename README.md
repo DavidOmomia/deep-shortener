@@ -211,5 +211,3 @@ npm run test:unit
 * Enhanced analytics for tracking URL visits.
 * Integration with external URL validation services.
 * Improved scalability with distributed slug generation.
-
-# Thank you Deep Origin team for the task
